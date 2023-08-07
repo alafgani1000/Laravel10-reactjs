@@ -5,7 +5,3 @@
 php artisan install
 
 yarn install
-
-## License
-
-The Laravel framework is open-sourced
