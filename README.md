@@ -5,3 +5,9 @@
 php artisan install
 
 yarn install
+
+## Run
+
+php artisan serve
+
+yarn dev
